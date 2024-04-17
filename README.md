@@ -1,0 +1,1 @@
+This RStudio project focuses on predicting car performance using machine learning techniques. By analyzing various attributes and features of cars such as horsepower, cylinders, displacement, and weight, the project aims to build predictive models that can forecast car performance metrics like miles per gallon (MPG).
